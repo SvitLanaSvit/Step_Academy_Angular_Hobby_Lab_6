@@ -1,1 +1,38 @@
 /* You can add global styles to this file, and also import other style files */
+.wrapper{
+  max-width: 1200px;
+  margin: 40px auto;
+}
+
+.thWhite, .tdWhite{
+  padding: 8px;
+  text-align: left;
+  border: 1px solid white;
+  text-align: justify;
+}
+
+.thBlack, .tdBlack{
+  padding: 8px;
+  text-align: left;
+  border: 1px solid black;
+  text-align: justify;
+}
+
+.tableWhite{
+  border: 1px solid white;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 100%;
+}
+
+.tableBlack{
+  border: 1px solid black;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 100%;
+}
+
+.img{
+  height: 300px;
+  object-fit: cover;
+}
