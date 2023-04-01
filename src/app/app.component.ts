@@ -14,4 +14,5 @@ export class AppComponent {
     '../assets/med.jpg',
     '../assets/med2.webp'
   ]
+  name: string = 'Svitlana';
 }
